@@ -1,0 +1,167 @@
+2021-02-16 09:47:35 Line: 31, C:\xampp\htdocs\subiekt\api-subiekt-gt\public\api\index.php: JSON read: Syntax error
+2021-02-16 09:48:05 Line: 31, C:\xampp\htdocs\subiekt\api-subiekt-gt\public\api\index.php: JSON read: Syntax error
+2021-02-16 09:52:08 Line: 34, C:\xampp\htdocs\subiekt\api-subiekt-gt\public\api\index.php: Brak danych w ¿¹daniu!
+2021-02-16 09:53:16 Line: 34, C:\xampp\htdocs\subiekt\api-subiekt-gt\public\api\index.php: Brak danych w ¿¹daniu!
+2021-02-16 09:56:52 Line: 66, C:\xampp\htdocs\subiekt\api-subiekt-gt\public\api\index.php: Nieprawid³owy klucz API - api_key!
+2021-02-16 10:03:00 Line: 31, C:\xampp\htdocs\subiekt\api-subiekt-gt\public\api\index.php: JSON read: Syntax error
+2021-02-16 10:26:30 Line: 123, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Warto?? musi by? unikalna.
+2021-02-16 10:26:48 Line: 123, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Warto?? musi by? unikalna.
+2021-02-16 10:27:12 Line: 123, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Warto?? musi by? unikalna.
+2021-02-16 10:28:19 Line: 123, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Warto?? musi by? unikalna.
+2021-02-16 10:33:21 Line: 77, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-16 10:33:36 Line: 123, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Warto?? musi by? unikalna.
+2021-02-16 10:33:59 Line: 123, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Warto?? musi by? unikalna.
+2021-02-16 10:34:08 Line: 123, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Warto?? musi by? unikalna.
+2021-02-16 10:34:20 Line: 123, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Warto?? musi by? unikalna.
+2021-02-16 10:34:26 Line: 123, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Warto?? musi by? unikalna.
+2021-02-16 10:34:50 Line: 123, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Warto?? musi by? unikalna.
+2021-02-16 10:34:58 Line: 123, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Warto?? musi by? unikalna.
+2021-02-16 10:35:09 Line: 77, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-16 10:56:33 Line: 79, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Kontrahent nie istnieje.
+2021-02-16 10:57:42 Line: 79, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Kontrahent nie istnieje.
+2021-02-16 10:58:09 Line: 79, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Kontrahent nie istnieje.
+2021-02-16 10:58:28 Line: 79, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Kontrahent nie istnieje.
+2021-02-16 11:03:42 Line: 93, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Stawka VAT nie istnieje.
+2021-02-16 11:05:37 Line: 97, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-16 11:05:41 Line: 97, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-16 11:08:21 Line: 106, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-16 11:22:10 Line: 31, C:\xampp\htdocs\subiekt\api-subiekt-gt\public\api\index.php: JSON read: Syntax error
+2021-02-16 11:33:17 Line: 241, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Subiekt.Towar.1<br/><b>Description:</b> B??d zapisu do bazy danych. Zapis spowodowa?by naruszenie integralno?ci danych.
+Wi?cej informacji na ten temat w pomocy, w rozdziale "Problemy techniczne".
+2021-02-16 11:47:22 Line: 31, C:\xampp\htdocs\subiekt\api-subiekt-gt\public\api\index.php: JSON read: Control character error, possibly incorrectly encoded
+2021-02-16 11:47:32 Line: 241, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Subiekt.Towar.1<br/><b>Description:</b> B??d zapisu do bazy danych. Zapis spowodowa?by naruszenie integralno?ci danych.
+Wi?cej informacji na ten temat w pomocy, w rozdziale "Problemy techniczne".
+2021-02-16 11:47:39 Line: 241, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Subiekt.Towar.1<br/><b>Description:</b> B??d zapisu do bazy danych. Zapis spowodowa?by naruszenie integralno?ci danych.
+Wi?cej informacji na ten temat w pomocy, w rozdziale "Problemy techniczne".
+2021-02-16 11:49:05 Line: 241, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Subiekt.Towar.1<br/><b>Description:</b> B??d zapisu do bazy danych. Zapis spowodowa?by naruszenie integralno?ci danych.
+Wi?cej informacji na ten temat w pomocy, w rozdziale "Problemy techniczne".
+2021-02-16 11:49:13 Line: 106, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-16 11:49:38 Line: 106, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-16 11:49:44 Line: 106, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-16 11:49:48 Line: 106, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-16 11:49:51 Line: 106, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-16 11:49:54 Line: 106, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-16 11:50:35 Line: 123, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Warto?? musi by? unikalna.
+2021-02-16 12:14:53 Line: 126, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Unable to lookup `TowarRodzaj': Nieznana nazwa.
+2021-02-16 12:15:54 Line: 126, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Unable to lookup `TowarRodzaj': Nieznana nazwa.
+2021-02-16 12:18:41 Line: 31, C:\xampp\htdocs\subiekt\api-subiekt-gt\public\api\index.php: JSON read: Syntax error
+2021-02-16 12:19:21 Line: 145, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Unable to lookup `TowarRodzaj': Nieznana nazwa.
+2021-02-16 12:22:53 Line: 145, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Unable to lookup `TowarRodzaj': Nieznana nazwa.
+2021-02-16 12:23:18 Line: 145, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Unable to lookup `TowarRodzaj': Nieznana nazwa.
+2021-02-16 12:26:17 Line: 145, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Unable to lookup `TowarRodzaj': Nieznana nazwa.
+2021-02-16 12:30:45 Line: 108, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 12:32:08 Line: 108, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 12:34:50 Line: 108, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 12:42:32 Line: 108, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 12:42:40 Line: 108, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 12:42:44 Line: 108, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 12:43:01 Line: 108, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 12:43:07 Line: 108, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 12:43:14 Line: 108, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 12:43:22 Line: 108, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 12:43:31 Line: 108, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 12:43:36 Line: 108, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 12:43:40 Line: 108, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 12:43:44 Line: 108, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 12:43:48 Line: 108, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 12:43:54 Line: 108, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 12:50:30 Line: 108, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Unable to lookup `TowarRodzajEnum': Nieznana nazwa.
+2021-02-16 12:50:41 Line: 108, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 12:51:00 Line: 108, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 12:51:40 Line: 108, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 12:54:34 Line: 108, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 12:54:58 Line: 108, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 12:55:00 Line: 108, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 12:55:19 Line: 108, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 12:55:49 Line: 108, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Unable to lookup `Towar': Nieznana nazwa.
+2021-02-16 12:56:00 Line: 108, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Unable to lookup `Towary': Nieznana nazwa.
+2021-02-16 12:59:05 Line: 108, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 13:04:17 Line: 31, C:\xampp\htdocs\subiekt\api-subiekt-gt\public\api\index.php: JSON read: Syntax error
+2021-02-16 13:04:21 Line: 114, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Kontrahent nie istnieje.
+2021-02-16 13:04:26 Line: 114, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Kontrahent nie istnieje.
+2021-02-16 13:04:30 Line: 114, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Kontrahent nie istnieje.
+2021-02-16 13:04:33 Line: 114, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Kontrahent nie istnieje.
+2021-02-16 13:05:18 Line: 114, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Kontrahent nie istnieje.
+2021-02-16 13:07:53 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 13:08:53 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 13:09:03 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 13:09:36 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 13:59:14 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 13:59:45 Line: 111, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 14:03:43 Line: 111, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 14:03:56 Line: 111, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 14:04:40 Line: 111, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 14:04:43 Line: 111, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 14:04:51 Line: 111, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 14:05:01 Line: 111, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 14:05:09 Line: 111, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 14:05:14 Line: 111, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 14:07:25 Line: 111, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 14:15:08 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 14:15:20 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 14:17:03 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Unable to lookup `gtaTowarRodzajTowar': Nieznana nazwa.
+2021-02-16 14:23:13 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 14:23:25 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 14:23:28 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 14:23:32 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 14:23:35 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 14:23:38 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 14:23:40 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 14:26:43 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Unable to lookup `TowarRodzaj': Nieznana nazwa.
+2021-02-16 14:35:32 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Unable to lookup `TowarRodzaj': Nieznana nazwa.
+2021-02-16 14:35:42 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 14:37:27 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 14:39:04 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 14:39:48 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 14:39:49 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 14:41:49 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 14:48:39 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 14:48:47 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 14:50:52 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 14:50:55 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 14:53:32 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 14:53:40 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 14:53:41 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 14:54:59 Line: 104, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-16 14:55:08 Line: 104, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-16 14:55:53 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 14:56:06 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 14:56:12 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 14:56:19 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 14:56:43 Line: 106, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 14:59:39 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Unable to lookup `TowarRodzaj': Nieznana nazwa.
+2021-02-16 15:07:16 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 15:08:26 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 15:27:26 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 15:29:38 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 15:29:57 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 15:33:16 Line: 42, C:\xampp\htdocs\subiekt\api-subiekt-gt\public\api\index.php: Nie prawid³owe wywo³anie API
+2021-02-16 15:33:28 Line: 52, C:\xampp\htdocs\subiekt\api-subiekt-gt\public\api\index.php: Nieprawid³owe wywo³anie API. Brak metody: updates
+2021-02-16 15:33:34 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 15:33:46 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 15:35:59 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 15:39:29 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 15:41:50 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 15:42:01 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 15:42:02 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 15:42:07 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 15:42:24 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 15:43:23 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 15:43:29 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 15:43:31 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 15:43:42 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 15:44:36 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 15:44:45 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 15:44:56 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 15:44:59 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 15:45:00 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 15:45:02 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 15:46:05 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 15:46:26 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 15:47:04 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 15:47:55 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 15:56:32 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 15:59:28 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 16:00:07 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 16:00:16 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.
+2021-02-16 16:00:22 Line: 109, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Error [0x8002000e] Nieprawid?owa liczba parametr?w.

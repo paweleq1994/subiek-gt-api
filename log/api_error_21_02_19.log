@@ -1,0 +1,15 @@
+2021-02-19 12:29:21 Line: 17, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\mssql.php: Could not connect. [Microsoft][ODBC Driver 11 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].
+2021-02-19 12:29:37 Line: 17, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\mssql.php: Could not connect. [Microsoft][ODBC Driver 11 for SQL Server]SQL Server Network Interfaces: Error Locating Server/Instance Specified [xFFFFFFFF].
+2021-02-19 14:32:40 Line: 88, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Kontrahent nie istnieje.
+2021-02-19 14:38:36 Line: 88, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Kontrahent nie istnieje.
+2021-02-19 14:38:38 Line: 88, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Kontrahent nie istnieje.
+2021-02-19 14:40:41 Line: 88, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Kontrahent nie istnieje.
+2021-02-19 14:40:56 Line: 267, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Subiekt.Towar.1<br/><b>Description:</b> B??d zapisu do bazy danych. Zapis spowodowa?by naruszenie integralno?ci danych.
+Wi?cej informacji na ten temat w pomocy, w rozdziale "Problemy techniczne".
+2021-02-19 14:41:12 Line: 267, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Subiekt.Towar.1<br/><b>Description:</b> B??d zapisu do bazy danych. Zapis spowodowa?by naruszenie integralno?ci danych.
+Wi?cej informacji na ten temat w pomocy, w rozdziale "Problemy techniczne".
+2021-02-19 14:41:46 Line: 267, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Subiekt.Towar.1<br/><b>Description:</b> B??d zapisu do bazy danych. Zapis spowodowa?by naruszenie integralno?ci danych.
+Wi?cej informacji na ten temat w pomocy, w rozdziale "Problemy techniczne".
+2021-02-19 14:43:28 Line: 267, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Subiekt.Towar.1<br/><b>Description:</b> B??d zapisu do bazy danych. Zapis spowodowa?by naruszenie integralno?ci danych.
+Wi?cej informacji na ten temat w pomocy, w rozdziale "Problemy techniczne".
+2021-02-19 15:33:07 Line: 66, C:\xampp\htdocs\api-subiekt-gt\public\api\index.php: Nieprawid³owy klucz API - api_key!

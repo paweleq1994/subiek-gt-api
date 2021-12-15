@@ -1,0 +1,883 @@
+2021-02-24 08:13:02 Line: 11, : Request start: ::1
+2021-02-24 08:13:02 Line: 245, APISubiektGT\SubiektGT\Product->addUsluga: Utworzono produkt: !CODE42771
+2021-02-24 08:13:02 Line: 96, APISubiektGT\SubiektGT\product->addUsluga: Request finish: ::1
+2021-02-24 08:55:41 Line: 11, : Request start: ::1
+2021-02-24 08:56:02 Line: 11, : Request start: ::1
+2021-02-24 08:56:02 Line: 245, APISubiektGT\SubiektGT\Product->addUsluga: Utworzono produkt: !CODE2425
+2021-02-24 08:56:02 Line: 96, APISubiektGT\SubiektGT\product->addUsluga: Request finish: ::1
+2021-02-24 09:02:15 Line: 11, : Request start: ::1
+2021-02-24 09:02:57 Line: 11, : Request start: ::1
+2021-02-24 09:10:30 Line: 11, : Request start: ::1
+2021-02-24 09:12:34 Line: 11, : Request start: ::1
+2021-02-24 09:13:14 Line: 11, : Request start: ::1
+2021-02-24 09:13:22 Line: 11, : Request start: ::1
+2021-02-24 09:13:53 Line: 11, : Request start: ::1
+2021-02-24 09:13:54 Line: 226, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE93845
+2021-02-24 09:13:54 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 09:19:05 Line: 11, : Request start: ::1
+2021-02-24 09:19:06 Line: 226, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE4542
+2021-02-24 09:19:06 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 09:21:19 Line: 11, : Request start: ::1
+2021-02-24 09:35:18 Line: 11, : Request start: ::1
+2021-02-24 09:35:18 Line: 227, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE59499
+2021-02-24 09:35:18 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 09:36:24 Line: 11, : Request start: ::1
+2021-02-24 09:36:24 Line: 257, APISubiektGT\SubiektGT\Product->update: Zaktualizowano produkt: !CODE4542
+2021-02-24 09:36:24 Line: 96, APISubiektGT\SubiektGT\product->update: Request finish: ::1
+2021-02-24 09:37:42 Line: 11, : Request start: ::1
+2021-02-24 09:37:42 Line: 257, APISubiektGT\SubiektGT\Product->update: Zaktualizowano produkt: !CODE4542
+2021-02-24 09:37:42 Line: 96, APISubiektGT\SubiektGT\product->update: Request finish: ::1
+2021-02-24 09:43:20 Line: 11, : Request start: ::1
+2021-02-24 09:45:37 Line: 11, : Request start: ::1
+2021-02-24 09:45:37 Line: 227, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE26616
+2021-02-24 09:45:37 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 09:45:45 Line: 11, : Request start: ::1
+2021-02-24 09:46:05 Line: 11, : Request start: ::1
+2021-02-24 09:46:18 Line: 11, : Request start: ::1
+2021-02-24 09:46:34 Line: 11, : Request start: ::1
+2021-02-24 09:46:48 Line: 11, : Request start: ::1
+2021-02-24 09:46:48 Line: 227, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE88757
+2021-02-24 09:46:48 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 09:59:24 Line: 11, : Request start: ::1
+2021-02-24 10:00:04 Line: 11, : Request start: ::1
+2021-02-24 10:00:04 Line: 227, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: 2402 TEST
+2021-02-24 10:00:04 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 10:10:08 Line: 11, : Request start: ::1
+2021-02-24 10:10:08 Line: 229, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE30768
+2021-02-24 10:10:08 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 10:12:48 Line: 11, : Request start: ::1
+2021-02-24 10:13:08 Line: 11, : Request start: ::1
+2021-02-24 10:13:25 Line: 11, : Request start: ::1
+2021-02-24 10:15:28 Line: 11, : Request start: ::1
+2021-02-24 10:15:39 Line: 11, : Request start: ::1
+2021-02-24 10:16:31 Line: 11, : Request start: ::1
+2021-02-24 10:17:34 Line: 11, : Request start: ::1
+2021-02-24 10:18:33 Line: 11, : Request start: ::1
+2021-02-24 10:19:08 Line: 11, : Request start: ::1
+2021-02-24 10:19:25 Line: 11, : Request start: ::1
+2021-02-24 10:19:34 Line: 11, : Request start: ::1
+2021-02-24 10:24:00 Line: 11, : Request start: ::1
+2021-02-24 10:28:40 Line: 11, : Request start: ::1
+2021-02-24 10:28:47 Line: 11, : Request start: ::1
+2021-02-24 10:31:46 Line: 11, : Request start: ::1
+2021-02-24 10:31:46 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 
+2021-02-24 10:31:46 Line: 96, APISubiektGT\SubiektGT\order->get: Request finish: ::1
+2021-02-24 10:33:32 Line: 11, : Request start: ::1
+2021-02-24 10:33:32 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 
+2021-02-24 10:33:32 Line: 96, APISubiektGT\SubiektGT\order->get: Request finish: ::1
+2021-02-24 10:39:17 Line: 11, : Request start: ::1
+2021-02-24 10:39:17 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 
+2021-02-24 10:39:17 Line: 96, APISubiektGT\SubiektGT\order->get: Request finish: ::1
+2021-02-24 10:41:12 Line: 11, : Request start: ::1
+2021-02-24 10:41:21 Line: 11, : Request start: ::1
+2021-02-24 10:41:21 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 
+2021-02-24 10:41:21 Line: 96, APISubiektGT\SubiektGT\order->get: Request finish: ::1
+2021-02-24 10:42:40 Line: 11, : Request start: ::1
+2021-02-24 10:42:40 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 
+2021-02-24 10:42:40 Line: 96, APISubiektGT\SubiektGT\order->get: Request finish: ::1
+2021-02-24 10:43:25 Line: 11, : Request start: ::1
+2021-02-24 10:43:25 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 
+2021-02-24 10:43:25 Line: 96, APISubiektGT\SubiektGT\order->get: Request finish: ::1
+2021-02-24 10:43:46 Line: 11, : Request start: ::1
+2021-02-24 10:43:46 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 
+2021-02-24 10:43:46 Line: 96, APISubiektGT\SubiektGT\order->get: Request finish: ::1
+2021-02-24 10:44:39 Line: 11, : Request start: ::1
+2021-02-24 10:44:39 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 25
+2021-02-24 10:44:39 Line: 96, APISubiektGT\SubiektGT\order->get: Request finish: ::1
+2021-02-24 10:44:56 Line: 11, : Request start: ::1
+2021-02-24 10:44:56 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 198
+2021-02-24 10:44:56 Line: 96, APISubiektGT\SubiektGT\order->get: Request finish: ::1
+2021-02-24 10:46:17 Line: 11, : Request start: ::1
+2021-02-24 10:46:17 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 198
+2021-02-24 10:46:17 Line: 96, APISubiektGT\SubiektGT\order->get: Request finish: ::1
+2021-02-24 10:47:07 Line: 11, : Request start: ::1
+2021-02-24 10:47:07 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 198
+2021-02-24 10:47:07 Line: 96, APISubiektGT\SubiektGT\order->get: Request finish: ::1
+2021-02-24 10:52:47 Line: 11, : Request start: ::1
+2021-02-24 10:52:47 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 47
+2021-02-24 10:52:47 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 51
+2021-02-24 10:52:47 Line: 67, APISubiektGT\SubiektGT\Order->addPosition: Dodaje pozycje o kodzie: TEST0102
+2021-02-24 10:52:47 Line: 284, APISubiektGT\SubiektGT\Order->add: Utworzono zamówienie od klienta: ZK 2/2021
+2021-02-24 10:52:47 Line: 96, APISubiektGT\SubiektGT\order->add: Request finish: ::1
+2021-02-24 10:52:55 Line: 11, : Request start: ::1
+2021-02-24 10:52:55 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 47
+2021-02-24 10:52:55 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 51
+2021-02-24 10:52:55 Line: 67, APISubiektGT\SubiektGT\Order->addPosition: Dodaje pozycje o kodzie: TEST0102
+2021-02-24 10:52:55 Line: 284, APISubiektGT\SubiektGT\Order->add: Utworzono zamówienie od klienta: ZK 3/2021
+2021-02-24 10:52:55 Line: 96, APISubiektGT\SubiektGT\order->add: Request finish: ::1
+2021-02-24 10:54:38 Line: 11, : Request start: ::1
+2021-02-24 10:54:38 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 47
+2021-02-24 10:54:38 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 51
+2021-02-24 10:54:38 Line: 67, APISubiektGT\SubiektGT\Order->addPosition: Dodaje pozycje o kodzie: TEST0102
+2021-02-24 10:54:38 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 51
+2021-02-24 10:54:39 Line: 67, APISubiektGT\SubiektGT\Order->addPosition: Dodaje pozycje o kodzie: TEST0102
+2021-02-24 10:54:39 Line: 284, APISubiektGT\SubiektGT\Order->add: Utworzono zamówienie od klienta: ZK 4/2021
+2021-02-24 10:54:39 Line: 96, APISubiektGT\SubiektGT\order->add: Request finish: ::1
+2021-02-24 10:57:47 Line: 11, : Request start: ::1
+2021-02-24 10:57:47 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 198
+2021-02-24 10:57:47 Line: 96, APISubiektGT\SubiektGT\order->get: Request finish: ::1
+2021-02-24 10:59:46 Line: 11, : Request start: ::1
+2021-02-24 11:01:27 Line: 11, : Request start: ::1
+2021-02-24 11:01:28 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 
+2021-02-24 11:01:28 Line: 96, APISubiektGT\SubiektGT\order->get: Request finish: ::1
+2021-02-24 11:02:12 Line: 11, : Request start: ::1
+2021-02-24 11:02:35 Line: 11, : Request start: ::1
+2021-02-24 11:03:49 Line: 11, : Request start: ::1
+2021-02-24 11:04:06 Line: 11, : Request start: ::1
+2021-02-24 11:07:14 Line: 11, : Request start: ::1
+2021-02-24 11:08:59 Line: 11, : Request start: ::1
+2021-02-24 11:09:36 Line: 11, : Request start: ::1
+2021-02-24 11:19:52 Line: 11, : Request start: ::1
+2021-02-24 11:20:05 Line: 11, : Request start: ::1
+2021-02-24 11:20:52 Line: 11, : Request start: ::1
+2021-02-24 11:21:33 Line: 11, : Request start: ::1
+2021-02-24 11:21:33 Line: 236, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE10287
+2021-02-24 11:21:33 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 11:23:19 Line: 11, : Request start: ::1
+2021-02-24 11:23:28 Line: 11, : Request start: ::1
+2021-02-24 11:23:28 Line: 96, APISubiektGT\SubiektGT\order->makesaledoc: Request finish: ::1
+2021-02-24 11:24:06 Line: 11, : Request start: ::1
+2021-02-24 11:24:13 Line: 11, : Request start: ::1
+2021-02-24 11:24:13 Line: 236, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE69174
+2021-02-24 11:24:14 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 11:24:22 Line: 11, : Request start: ::1
+2021-02-24 11:24:23 Line: 236, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE17736
+2021-02-24 11:24:23 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 11:25:12 Line: 11, : Request start: ::1
+2021-02-24 11:25:12 Line: 236, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE39125
+2021-02-24 11:25:12 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 11:26:17 Line: 11, : Request start: ::1
+2021-02-24 11:27:34 Line: 11, : Request start: ::1
+2021-02-24 11:27:56 Line: 11, : Request start: ::1
+2021-02-24 11:27:56 Line: 237, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE95776
+2021-02-24 11:27:56 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 11:28:14 Line: 11, : Request start: ::1
+2021-02-24 11:28:27 Line: 11, : Request start: ::1
+2021-02-24 11:28:27 Line: 237, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE25501
+2021-02-24 11:28:27 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 11:28:47 Line: 11, : Request start: ::1
+2021-02-24 11:28:47 Line: 237, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE83765
+2021-02-24 11:28:47 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 11:28:50 Line: 11, : Request start: ::1
+2021-02-24 11:29:02 Line: 11, : Request start: ::1
+2021-02-24 11:29:16 Line: 11, : Request start: ::1
+2021-02-24 11:29:16 Line: 239, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE66561
+2021-02-24 11:29:16 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 11:31:05 Line: 11, : Request start: ::1
+2021-02-24 11:31:32 Line: 11, : Request start: ::1
+2021-02-24 11:32:26 Line: 11, : Request start: ::1
+2021-02-24 11:33:35 Line: 11, : Request start: ::1
+2021-02-24 11:34:33 Line: 11, : Request start: ::1
+2021-02-24 11:34:49 Line: 11, : Request start: ::1
+2021-02-24 11:36:29 Line: 11, : Request start: ::1
+2021-02-24 11:36:29 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 47
+2021-02-24 11:36:29 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 51
+2021-02-24 11:36:29 Line: 67, APISubiektGT\SubiektGT\Order->addPosition: Dodaje pozycje o kodzie: TEST0102
+2021-02-24 11:36:29 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 51
+2021-02-24 11:36:29 Line: 67, APISubiektGT\SubiektGT\Order->addPosition: Dodaje pozycje o kodzie: TEST0102
+2021-02-24 11:36:29 Line: 284, APISubiektGT\SubiektGT\Order->add: Utworzono zamówienie od klienta: ZK 6/2021
+2021-02-24 11:36:29 Line: 96, APISubiektGT\SubiektGT\order->add: Request finish: ::1
+2021-02-24 11:37:22 Line: 11, : Request start: ::1
+2021-02-24 11:40:49 Line: 11, : Request start: ::1
+2021-02-24 11:40:58 Line: 11, : Request start: ::1
+2021-02-24 11:41:03 Line: 11, : Request start: ::1
+2021-02-24 11:44:19 Line: 11, : Request start: ::1
+2021-02-24 11:44:39 Line: 11, : Request start: ::1
+2021-02-24 11:45:34 Line: 11, : Request start: ::1
+2021-02-24 11:45:42 Line: 11, : Request start: ::1
+2021-02-24 11:46:05 Line: 11, : Request start: ::1
+2021-02-24 11:52:04 Line: 11, : Request start: ::1
+2021-02-24 11:52:04 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 47
+2021-02-24 11:52:04 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 51
+2021-02-24 11:52:04 Line: 67, APISubiektGT\SubiektGT\Order->addPosition: Dodaje pozycje o kodzie: TEST0102
+2021-02-24 11:52:04 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 51
+2021-02-24 11:52:04 Line: 67, APISubiektGT\SubiektGT\Order->addPosition: Dodaje pozycje o kodzie: TEST0102
+2021-02-24 11:52:04 Line: 284, APISubiektGT\SubiektGT\Order->add: Utworzono zamówienie od klienta: ZK 8/2021
+2021-02-24 11:52:04 Line: 96, APISubiektGT\SubiektGT\order->add: Request finish: ::1
+2021-02-24 11:55:39 Line: 11, : Request start: ::1
+2021-02-24 11:55:40 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 195
+2021-02-24 11:55:40 Line: 96, APISubiektGT\SubiektGT\document->get: Request finish: ::1
+2021-02-24 11:56:35 Line: 11, : Request start: ::1
+2021-02-24 11:56:35 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 47
+2021-02-24 11:56:35 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 51
+2021-02-24 11:56:35 Line: 67, APISubiektGT\SubiektGT\Order->addPosition: Dodaje pozycje o kodzie: TEST0102
+2021-02-24 11:56:35 Line: 284, APISubiektGT\SubiektGT\Order->add: Utworzono zamówienie od klienta: ZK 7/2021
+2021-02-24 11:56:35 Line: 96, APISubiektGT\SubiektGT\order->add: Request finish: ::1
+2021-02-24 11:56:37 Line: 11, : Request start: ::1
+2021-02-24 11:56:38 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 47
+2021-02-24 11:56:38 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 51
+2021-02-24 11:56:38 Line: 67, APISubiektGT\SubiektGT\Order->addPosition: Dodaje pozycje o kodzie: TEST0102
+2021-02-24 11:56:38 Line: 284, APISubiektGT\SubiektGT\Order->add: Utworzono zamówienie od klienta: ZK 8/2021
+2021-02-24 11:56:38 Line: 96, APISubiektGT\SubiektGT\order->add: Request finish: ::1
+2021-02-24 11:56:38 Line: 11, : Request start: ::1
+2021-02-24 11:56:39 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 47
+2021-02-24 11:56:39 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 51
+2021-02-24 11:56:39 Line: 67, APISubiektGT\SubiektGT\Order->addPosition: Dodaje pozycje o kodzie: TEST0102
+2021-02-24 11:56:39 Line: 284, APISubiektGT\SubiektGT\Order->add: Utworzono zamówienie od klienta: ZK 9/2021
+2021-02-24 11:56:39 Line: 96, APISubiektGT\SubiektGT\order->add: Request finish: ::1
+2021-02-24 11:57:10 Line: 11, : Request start: ::1
+2021-02-24 11:57:10 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 47
+2021-02-24 11:57:10 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 51
+2021-02-24 11:57:10 Line: 67, APISubiektGT\SubiektGT\Order->addPosition: Dodaje pozycje o kodzie: TEST0102
+2021-02-24 11:57:10 Line: 284, APISubiektGT\SubiektGT\Order->add: Utworzono zamówienie od klienta: ZK 10/2021
+2021-02-24 11:57:10 Line: 96, APISubiektGT\SubiektGT\order->add: Request finish: ::1
+2021-02-24 11:57:14 Line: 11, : Request start: ::1
+2021-02-24 12:00:28 Line: 11, : Request start: ::1
+2021-02-24 12:00:29 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 290
+2021-02-24 12:00:29 Line: 96, APISubiektGT\SubiektGT\order->get: Request finish: ::1
+2021-02-24 12:00:55 Line: 11, : Request start: ::1
+2021-02-24 12:01:10 Line: 11, : Request start: ::1
+2021-02-24 12:17:35 Line: 11, : Request start: ::1
+2021-02-24 12:17:40 Line: 11, : Request start: ::1
+2021-02-24 12:17:45 Line: 11, : Request start: ::1
+2021-02-24 12:17:58 Line: 11, : Request start: ::1
+2021-02-24 12:18:37 Line: 11, : Request start: ::1
+2021-02-24 12:18:42 Line: 11, : Request start: ::1
+2021-02-24 12:18:44 Line: 11, : Request start: ::1
+2021-02-24 12:19:25 Line: 11, : Request start: ::1
+2021-02-24 12:19:31 Line: 11, : Request start: ::1
+2021-02-24 12:19:37 Line: 11, : Request start: ::1
+2021-02-24 12:19:39 Line: 11, : Request start: ::1
+2021-02-24 12:19:40 Line: 11, : Request start: ::1
+2021-02-24 12:19:41 Line: 11, : Request start: ::1
+2021-02-24 12:19:42 Line: 11, : Request start: ::1
+2021-02-24 12:19:49 Line: 11, : Request start: ::1
+2021-02-24 12:19:49 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 290
+2021-02-24 12:19:49 Line: 96, APISubiektGT\SubiektGT\order->get: Request finish: ::1
+2021-02-24 12:19:51 Line: 11, : Request start: ::1
+2021-02-24 12:19:51 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 290
+2021-02-24 12:19:51 Line: 96, APISubiektGT\SubiektGT\order->get: Request finish: ::1
+2021-02-24 12:19:51 Line: 11, : Request start: ::1
+2021-02-24 12:19:51 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 290
+2021-02-24 12:19:51 Line: 96, APISubiektGT\SubiektGT\order->get: Request finish: ::1
+2021-02-24 12:19:52 Line: 11, : Request start: ::1
+2021-02-24 12:19:52 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 290
+2021-02-24 12:19:52 Line: 96, APISubiektGT\SubiektGT\order->get: Request finish: ::1
+2021-02-24 12:19:53 Line: 11, : Request start: ::1
+2021-02-24 12:19:53 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 290
+2021-02-24 12:19:53 Line: 96, APISubiektGT\SubiektGT\order->get: Request finish: ::1
+2021-02-24 12:19:53 Line: 11, : Request start: ::1
+2021-02-24 12:19:53 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 290
+2021-02-24 12:19:53 Line: 96, APISubiektGT\SubiektGT\order->get: Request finish: ::1
+2021-02-24 12:19:53 Line: 11, : Request start: ::1
+2021-02-24 12:19:53 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 290
+2021-02-24 12:19:53 Line: 96, APISubiektGT\SubiektGT\order->get: Request finish: ::1
+2021-02-24 12:19:54 Line: 11, : Request start: ::1
+2021-02-24 12:19:54 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 290
+2021-02-24 12:19:54 Line: 96, APISubiektGT\SubiektGT\order->get: Request finish: ::1
+2021-02-24 12:19:54 Line: 11, : Request start: ::1
+2021-02-24 12:19:54 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 290
+2021-02-24 12:19:54 Line: 96, APISubiektGT\SubiektGT\order->get: Request finish: ::1
+2021-02-24 12:19:55 Line: 11, : Request start: ::1
+2021-02-24 12:19:55 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 290
+2021-02-24 12:19:55 Line: 96, APISubiektGT\SubiektGT\order->get: Request finish: ::1
+2021-02-24 12:19:55 Line: 11, : Request start: ::1
+2021-02-24 12:19:55 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 290
+2021-02-24 12:19:55 Line: 96, APISubiektGT\SubiektGT\order->get: Request finish: ::1
+2021-02-24 12:19:55 Line: 11, : Request start: ::1
+2021-02-24 12:19:55 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 290
+2021-02-24 12:19:55 Line: 96, APISubiektGT\SubiektGT\order->get: Request finish: ::1
+2021-02-24 12:19:55 Line: 11, : Request start: ::1
+2021-02-24 12:19:55 Line: 91, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 290
+2021-02-24 12:19:55 Line: 96, APISubiektGT\SubiektGT\order->get: Request finish: ::1
+2021-02-24 12:20:42 Line: 11, : Request start: ::1
+2021-02-24 12:20:46 Line: 11, : Request start: ::1
+2021-02-24 12:20:47 Line: 11, : Request start: ::1
+2021-02-24 12:20:48 Line: 11, : Request start: ::1
+2021-02-24 12:20:49 Line: 11, : Request start: ::1
+2021-02-24 12:20:52 Line: 11, : Request start: ::1
+2021-02-24 12:20:53 Line: 11, : Request start: ::1
+2021-02-24 12:20:57 Line: 11, : Request start: ::1
+2021-02-24 12:21:40 Line: 11, : Request start: ::1
+2021-02-24 12:21:44 Line: 11, : Request start: ::1
+2021-02-24 12:21:47 Line: 11, : Request start: ::1
+2021-02-24 12:21:51 Line: 11, : Request start: ::1
+2021-02-24 12:21:53 Line: 11, : Request start: ::1
+2021-02-24 12:21:54 Line: 11, : Request start: ::1
+2021-02-24 12:21:55 Line: 11, : Request start: ::1
+2021-02-24 12:21:56 Line: 11, : Request start: ::1
+2021-02-24 12:21:57 Line: 11, : Request start: ::1
+2021-02-24 12:21:58 Line: 11, : Request start: ::1
+2021-02-24 12:22:00 Line: 11, : Request start: ::1
+2021-02-24 12:22:02 Line: 11, : Request start: ::1
+2021-02-24 12:22:06 Line: 11, : Request start: ::1
+2021-02-24 12:27:15 Line: 11, : Request start: ::1
+2021-02-24 12:27:25 Line: 11, : Request start: ::1
+2021-02-24 12:29:29 Line: 11, : Request start: ::1
+2021-02-24 12:34:04 Line: 11, : Request start: ::1
+2021-02-24 12:34:04 Line: 95, APISubiektGT\SubiektGT\Order->getPdf: Wygenerowano pdf dokumentu: FS 7/2021
+2021-02-24 12:34:04 Line: 96, APISubiektGT\SubiektGT\order->getpdf: Request finish: ::1
+2021-02-24 12:34:15 Line: 11, : Request start: ::1
+2021-02-24 12:40:13 Line: 11, : Request start: ::1
+2021-02-24 12:40:14 Line: 95, APISubiektGT\SubiektGT\Order->getPdf: Wygenerowano pdf dokumentu: FS 7/2021
+2021-02-24 12:40:14 Line: 96, APISubiektGT\SubiektGT\order->getpdf: Request finish: ::1
+2021-02-24 12:40:35 Line: 11, : Request start: ::1
+2021-02-24 12:40:36 Line: 95, APISubiektGT\SubiektGT\Order->getPdf: Wygenerowano pdf dokumentu: FS 7/2021
+2021-02-24 12:40:36 Line: 96, APISubiektGT\SubiektGT\order->getpdf: Request finish: ::1
+2021-02-24 12:41:56 Line: 11, : Request start: ::1
+2021-02-24 12:41:56 Line: 95, APISubiektGT\SubiektGT\Order->getPdf: Wygenerowano pdf dokumentu: FS 7/2021
+2021-02-24 12:41:56 Line: 96, APISubiektGT\SubiektGT\order->getpdf: Request finish: ::1
+2021-02-24 12:42:11 Line: 11, : Request start: ::1
+2021-02-24 12:42:12 Line: 95, APISubiektGT\SubiektGT\Order->getPdf: Wygenerowano pdf dokumentu: FS 7/2021
+2021-02-24 12:42:12 Line: 96, APISubiektGT\SubiektGT\order->getpdf: Request finish: ::1
+2021-02-24 12:44:49 Line: 11, : Request start: 10.0.0.141
+2021-02-24 12:45:18 Line: 11, : Request start: 10.0.0.141
+2021-02-24 12:45:45 Line: 11, : Request start: 10.0.0.141
+2021-02-24 12:45:45 Line: 95, APISubiektGT\SubiektGT\Order->getPdf: Wygenerowano pdf dokumentu: ZK 4/2021
+2021-02-24 12:45:45 Line: 96, APISubiektGT\SubiektGT\order->getpdf: Request finish: 10.0.0.141
+2021-02-24 12:46:41 Line: 11, : Request start: ::1
+2021-02-24 12:46:42 Line: 95, APISubiektGT\SubiektGT\Order->getPdf: Wygenerowano pdf dokumentu: FS 7/2021
+2021-02-24 12:46:42 Line: 96, APISubiektGT\SubiektGT\order->getpdf: Request finish: ::1
+2021-02-24 12:47:21 Line: 11, : Request start: ::1
+2021-02-24 12:47:22 Line: 95, APISubiektGT\SubiektGT\Order->getPdf: Wygenerowano pdf dokumentu: FS 7/2021
+2021-02-24 12:47:22 Line: 96, APISubiektGT\SubiektGT\order->getpdf: Request finish: ::1
+2021-02-24 12:53:52 Line: 11, : Request start: ::1
+2021-02-24 12:53:53 Line: 95, APISubiektGT\SubiektGT\Order->getPdf: Wygenerowano pdf dokumentu: FS 7/2021
+2021-02-24 12:53:53 Line: 96, APISubiektGT\SubiektGT\order->getpdf: Request finish: ::1
+2021-02-24 12:54:54 Line: 11, : Request start: 10.0.0.141
+2021-02-24 12:54:54 Line: 95, APISubiektGT\SubiektGT\Order->getPdf: Wygenerowano pdf dokumentu: ZK 4/2021
+2021-02-24 12:54:54 Line: 96, APISubiektGT\SubiektGT\order->getpdf: Request finish: 10.0.0.141
+2021-02-24 12:55:20 Line: 11, : Request start: 10.0.0.141
+2021-02-24 12:55:21 Line: 95, APISubiektGT\SubiektGT\Order->getPdf: Wygenerowano pdf dokumentu: ZK 4/2021
+2021-02-24 12:55:21 Line: 96, APISubiektGT\SubiektGT\order->getpdf: Request finish: 10.0.0.141
+2021-02-24 12:55:56 Line: 11, : Request start: 10.0.0.141
+2021-02-24 12:55:57 Line: 95, APISubiektGT\SubiektGT\Order->getPdf: Wygenerowano pdf dokumentu: ZK 4/2021
+2021-02-24 12:55:57 Line: 96, APISubiektGT\SubiektGT\order->getpdf: Request finish: 10.0.0.141
+2021-02-24 12:56:09 Line: 11, : Request start: 10.0.0.141
+2021-02-24 12:56:09 Line: 95, APISubiektGT\SubiektGT\Order->getPdf: Wygenerowano pdf dokumentu: ZK 4/2021
+2021-02-24 12:56:09 Line: 96, APISubiektGT\SubiektGT\order->getpdf: Request finish: 10.0.0.141
+2021-02-24 12:56:17 Line: 11, : Request start: 10.0.0.141
+2021-02-24 12:56:17 Line: 95, APISubiektGT\SubiektGT\Order->getPdf: Wygenerowano pdf dokumentu: ZK 4/2021
+2021-02-24 12:56:17 Line: 96, APISubiektGT\SubiektGT\order->getpdf: Request finish: 10.0.0.141
+2021-02-24 12:57:50 Line: 11, : Request start: 10.0.0.141
+2021-02-24 12:58:33 Line: 11, : Request start: 10.0.0.141
+2021-02-24 12:59:00 Line: 11, : Request start: 10.0.0.141
+2021-02-24 12:59:01 Line: 95, APISubiektGT\SubiektGT\Order->getPdf: Wygenerowano pdf dokumentu: ZK 4/2021
+2021-02-24 12:59:01 Line: 96, APISubiektGT\SubiektGT\order->getpdf: Request finish: 10.0.0.141
+2021-02-24 13:00:29 Line: 11, : Request start: 10.0.0.141
+2021-02-24 13:00:30 Line: 95, APISubiektGT\SubiektGT\Order->getPdf: Wygenerowano pdf dokumentu: ZK 4/2021
+2021-02-24 13:00:30 Line: 96, APISubiektGT\SubiektGT\order->getpdf: Request finish: 10.0.0.141
+2021-02-24 13:00:46 Line: 11, : Request start: 10.0.0.141
+2021-02-24 13:00:47 Line: 95, APISubiektGT\SubiektGT\Order->getPdf: Wygenerowano pdf dokumentu: ZK 4/2021
+2021-02-24 13:00:47 Line: 96, APISubiektGT\SubiektGT\order->getpdf: Request finish: 10.0.0.141
+2021-02-24 13:02:46 Line: 11, : Request start: 10.0.0.141
+2021-02-24 13:02:46 Line: 95, APISubiektGT\SubiektGT\Order->getPdf: Wygenerowano pdf dokumentu: ZK 4/2021
+2021-02-24 13:02:46 Line: 96, APISubiektGT\SubiektGT\order->getpdf: Request finish: 10.0.0.141
+2021-02-24 13:02:56 Line: 11, : Request start: 10.0.0.141
+2021-02-24 13:03:28 Line: 11, : Request start: 10.0.0.141
+2021-02-24 13:03:31 Line: 11, : Request start: 10.0.0.141
+2021-02-24 13:06:06 Line: 11, : Request start: 10.0.0.141
+2021-02-24 13:06:45 Line: 11, : Request start: 10.0.0.141
+2021-02-24 13:07:05 Line: 11, : Request start: 10.0.0.141
+2021-02-24 13:07:15 Line: 11, : Request start: 10.0.0.141
+2021-02-24 13:07:40 Line: 11, : Request start: 10.0.0.141
+2021-02-24 13:08:06 Line: 11, : Request start: 10.0.0.141
+2021-02-24 13:08:27 Line: 11, : Request start: 10.0.0.141
+2021-02-24 13:08:28 Line: 95, APISubiektGT\SubiektGT\Order->getPdf: Wygenerowano pdf dokumentu: ZK 4/2021
+2021-02-24 13:08:28 Line: 96, APISubiektGT\SubiektGT\order->getpdf: Request finish: 10.0.0.141
+2021-02-24 13:15:44 Line: 11, : Request start: ::1
+2021-02-24 13:15:44 Line: 95, APISubiektGT\SubiektGT\Order->getPdf: Wygenerowano pdf dokumentu: FS 7/2021
+2021-02-24 13:15:44 Line: 96, APISubiektGT\SubiektGT\order->getpdf: Request finish: ::1
+2021-02-24 13:25:19 Line: 11, : Request start: 10.0.0.141
+2021-02-24 13:25:20 Line: 95, APISubiektGT\SubiektGT\Order->getPdf: Wygenerowano pdf dokumentu: FS 4/2021
+2021-02-24 13:25:20 Line: 96, APISubiektGT\SubiektGT\order->getpdf: Request finish: 10.0.0.141
+2021-02-24 13:27:38 Line: 11, : Request start: 10.0.0.141
+2021-02-24 13:27:38 Line: 95, APISubiektGT\SubiektGT\Order->getPdf: Wygenerowano pdf dokumentu: FS 4/2021
+2021-02-24 13:27:38 Line: 96, APISubiektGT\SubiektGT\order->getpdf: Request finish: 10.0.0.141
+2021-02-24 13:27:53 Line: 11, : Request start: 10.0.0.141
+2021-02-24 13:46:32 Line: 11, : Request start: 10.0.0.141
+2021-02-24 13:46:33 Line: 95, APISubiektGT\SubiektGT\Order->getPdf: Wygenerowano pdf dokumentu: FS 4/2021
+2021-02-24 13:46:33 Line: 96, APISubiektGT\SubiektGT\order->getpdf: Request finish: 10.0.0.141
+2021-02-24 13:47:26 Line: 11, : Request start: 10.0.0.141
+2021-02-24 13:47:27 Line: 95, APISubiektGT\SubiektGT\Order->getPdf: Wygenerowano pdf dokumentu: FS 4/2021
+2021-02-24 13:47:27 Line: 96, APISubiektGT\SubiektGT\order->getpdf: Request finish: 10.0.0.141
+2021-02-24 13:48:27 Line: 11, : Request start: 10.0.0.141
+2021-02-24 13:48:28 Line: 95, APISubiektGT\SubiektGT\Order->getPdf: Wygenerowano pdf dokumentu: FS 4/2021
+2021-02-24 13:48:28 Line: 96, APISubiektGT\SubiektGT\order->getpdf: Request finish: 10.0.0.141
+2021-02-24 13:49:10 Line: 11, : Request start: ::1
+2021-02-24 13:49:10 Line: 239, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE33677
+2021-02-24 13:49:10 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 13:50:29 Line: 11, : Request start: 10.0.0.141
+2021-02-24 13:51:41 Line: 11, : Request start: 10.0.0.141
+2021-02-24 13:51:42 Line: 95, APISubiektGT\SubiektGT\Order->getPdf: Wygenerowano pdf dokumentu: FS 4/2021
+2021-02-24 13:51:42 Line: 96, APISubiektGT\SubiektGT\order->getpdf: Request finish: 10.0.0.141
+2021-02-24 13:53:17 Line: 11, : Request start: 10.0.0.141
+2021-02-24 13:53:18 Line: 95, APISubiektGT\SubiektGT\Order->getPdf: Wygenerowano pdf dokumentu: FS 4/2021
+2021-02-24 13:53:18 Line: 96, APISubiektGT\SubiektGT\order->getpdf: Request finish: 10.0.0.141
+2021-02-24 14:21:10 Line: 11, : Request start: 10.0.0.141
+2021-02-24 14:21:13 Line: 11, : Request start: 10.0.0.141
+2021-02-24 14:38:51 Line: 11, : Request start: ::1
+2021-02-24 14:38:51 Line: 239, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE75788
+2021-02-24 14:38:51 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 14:39:08 Line: 11, : Request start: ::1
+2021-02-24 14:43:13 Line: 11, : Request start: ::1
+2021-02-24 14:43:13 Line: 243, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE56672
+2021-02-24 14:43:13 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 14:56:26 Line: 11, : Request start: ::1
+2021-02-24 14:56:26 Line: 243, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE93859
+2021-02-24 14:56:26 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 15:07:05 Line: 11, : Request start: 10.0.0.141
+2021-02-24 15:07:06 Line: 95, APISubiektGT\SubiektGT\Order->getPdf: Wygenerowano pdf dokumentu: FS 4/2021
+2021-02-24 15:07:06 Line: 96, APISubiektGT\SubiektGT\order->getpdf: Request finish: 10.0.0.141
+2021-02-24 15:07:07 Line: 11, : Request start: ::1
+2021-02-24 15:07:08 Line: 95, APISubiektGT\SubiektGT\Order->getPdf: Wygenerowano pdf dokumentu: FS 7/2021
+2021-02-24 15:07:08 Line: 96, APISubiektGT\SubiektGT\order->getpdf: Request finish: ::1
+2021-02-24 15:23:04 Line: 11, : Request start: ::1
+2021-02-24 15:23:04 Line: 243, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE34207
+2021-02-24 15:23:04 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 15:23:26 Line: 11, : Request start: ::1
+2021-02-24 15:24:14 Line: 11, : Request start: ::1
+2021-02-24 15:24:21 Line: 11, : Request start: ::1
+2021-02-24 15:24:37 Line: 11, : Request start: ::1
+2021-02-24 15:24:45 Line: 11, : Request start: ::1
+2021-02-24 15:24:49 Line: 11, : Request start: ::1
+2021-02-24 15:24:53 Line: 11, : Request start: ::1
+2021-02-24 15:25:17 Line: 11, : Request start: ::1
+2021-02-24 15:25:21 Line: 11, : Request start: ::1
+2021-02-24 15:25:30 Line: 11, : Request start: ::1
+2021-02-24 15:25:37 Line: 11, : Request start: ::1
+2021-02-24 15:25:42 Line: 11, : Request start: ::1
+2021-02-24 15:25:47 Line: 11, : Request start: ::1
+2021-02-24 15:25:52 Line: 11, : Request start: ::1
+2021-02-24 15:25:57 Line: 11, : Request start: ::1
+2021-02-24 15:26:04 Line: 11, : Request start: ::1
+2021-02-24 15:26:26 Line: 11, : Request start: ::1
+2021-02-24 15:26:43 Line: 11, : Request start: ::1
+2021-02-24 15:26:56 Line: 11, : Request start: ::1
+2021-02-24 15:27:06 Line: 11, : Request start: ::1
+2021-02-24 15:27:13 Line: 11, : Request start: ::1
+2021-02-24 15:27:13 Line: 243, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE34207(1)
+2021-02-24 15:27:13 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 15:27:20 Line: 11, : Request start: ::1
+2021-02-24 15:27:20 Line: 243, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE34207(2)
+2021-02-24 15:27:20 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 15:27:21 Line: 11, : Request start: ::1
+2021-02-24 15:27:21 Line: 243, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE34207(3)
+2021-02-24 15:27:21 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 15:29:33 Line: 11, : Request start: ::1
+2021-02-24 15:29:33 Line: 247, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE34207
+2021-02-24 15:29:33 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 15:29:34 Line: 11, : Request start: ::1
+2021-02-24 15:29:34 Line: 247, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE34207
+2021-02-24 15:29:34 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 15:29:36 Line: 11, : Request start: ::1
+2021-02-24 15:29:36 Line: 247, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE34207
+2021-02-24 15:29:36 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 15:30:04 Line: 11, : Request start: ::1
+2021-02-24 15:30:04 Line: 247, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE34207
+2021-02-24 15:30:04 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 15:30:22 Line: 11, : Request start: ::1
+2021-02-24 15:30:22 Line: 247, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE34207
+2021-02-24 15:30:22 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 15:32:04 Line: 11, : Request start: ::1
+2021-02-24 15:32:04 Line: 247, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE34207
+2021-02-24 15:32:04 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 15:41:17 Line: 11, : Request start: ::1
+2021-02-24 15:41:17 Line: 247, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE34207
+2021-02-24 15:41:17 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 15:41:18 Line: 11, : Request start: ::1
+2021-02-24 15:41:18 Line: 247, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE34207
+2021-02-24 15:41:18 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 15:41:19 Line: 11, : Request start: ::1
+2021-02-24 15:41:19 Line: 247, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE34207
+2021-02-24 15:41:19 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 15:42:29 Line: 11, : Request start: ::1
+2021-02-24 15:42:44 Line: 11, : Request start: ::1
+2021-02-24 15:42:44 Line: 248, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE34207
+2021-02-24 15:42:44 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 15:42:58 Line: 11, : Request start: ::1
+2021-02-24 15:42:58 Line: 248, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE34207
+2021-02-24 15:42:58 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 15:46:25 Line: 11, : Request start: ::1
+2021-02-24 15:46:25 Line: 248, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE34207
+2021-02-24 15:46:25 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 15:46:28 Line: 11, : Request start: ::1
+2021-02-24 15:46:28 Line: 248, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE34207
+2021-02-24 15:46:28 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 16:02:41 Line: 11, : Request start: ::1
+2021-02-24 16:02:41 Line: 248, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE52558
+2021-02-24 16:02:41 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 16:02:44 Line: 11, : Request start: ::1
+2021-02-24 16:02:44 Line: 248, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE42676
+2021-02-24 16:02:44 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 16:23:31 Line: 11, : Request start: ::1
+2021-02-24 16:23:31 Line: 248, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE15398
+2021-02-24 16:23:31 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 16:23:31 Line: 11, : Request start: ::1
+2021-02-24 16:23:31 Line: 248, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE153982
+2021-02-24 16:23:31 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 16:24:52 Line: 11, : Request start: ::1
+2021-02-24 16:24:52 Line: 248, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE88624
+2021-02-24 16:24:52 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 16:24:52 Line: 11, : Request start: ::1
+2021-02-24 16:24:52 Line: 248, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE886242
+2021-02-24 16:24:52 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 16:27:46 Line: 11, : Request start: ::1
+2021-02-24 16:27:47 Line: 248, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE1499
+2021-02-24 16:27:47 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 16:27:47 Line: 11, : Request start: ::1
+2021-02-24 16:27:47 Line: 248, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE14992
+2021-02-24 16:27:47 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: ::1
+2021-02-24 16:36:08 Line: 11, : Request start: 185.38.251.200
+2021-02-24 16:36:09 Line: 248, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE76963
+2021-02-24 16:36:09 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: 185.38.251.200
+2021-02-24 16:36:16 Line: 11, : Request start: 185.38.251.200
+2021-02-24 16:36:16 Line: 248, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE11137
+2021-02-24 16:36:16 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: 185.38.251.200
+2021-02-24 16:53:46 Line: 11, : Request start: 185.38.251.200
+2021-02-24 16:53:46 Line: 248, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE75500
+2021-02-24 16:53:46 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: 185.38.251.200
+2021-02-24 16:54:19 Line: 11, : Request start: 185.38.251.200
+2021-02-24 16:54:19 Line: 248, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE18157
+2021-02-24 16:54:19 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: 185.38.251.200
+2021-02-24 16:54:34 Line: 11, : Request start: 185.38.251.200
+2021-02-24 16:54:34 Line: 248, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE10260
+2021-02-24 16:54:34 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: 185.38.251.200
+2021-02-24 16:54:39 Line: 11, : Request start: 185.38.251.200
+2021-02-24 16:54:40 Line: 248, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE43238
+2021-02-24 16:54:40 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: 185.38.251.200
+2021-02-24 16:55:04 Line: 11, : Request start: 185.38.251.200
+2021-02-24 16:55:04 Line: 248, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE4166
+2021-02-24 16:55:04 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: 185.38.251.200
+2021-02-24 16:55:19 Line: 11, : Request start: 185.38.251.200
+2021-02-24 16:55:19 Line: 248, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE94921
+2021-02-24 16:55:19 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: 185.38.251.200
+2021-02-24 16:55:39 Line: 11, : Request start: 185.38.251.200
+2021-02-24 16:55:39 Line: 248, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE67553
+2021-02-24 16:55:39 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: 185.38.251.200
+2021-02-24 16:56:29 Line: 11, : Request start: 185.38.251.200
+2021-02-24 16:56:29 Line: 248, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE19131
+2021-02-24 16:56:29 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: 185.38.251.200
+2021-02-24 16:56:39 Line: 11, : Request start: 185.38.251.200
+2021-02-24 16:56:39 Line: 248, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE906
+2021-02-24 16:56:39 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: 185.38.251.200
+2021-02-24 16:56:40 Line: 11, : Request start: 185.38.251.200
+2021-02-24 16:56:41 Line: 248, APISubiektGT\SubiektGT\Product->addTowar: Utworzono produkt: !CODE16987
+2021-02-24 16:56:41 Line: 96, APISubiektGT\SubiektGT\product->addTowar: Request finish: 185.38.251.200
+2021-02-24 18:05:59 Line: 11, : Request start: ::1
+2021-02-24 18:06:16 Line: 11, : Request start: ::1
+2021-02-24 18:06:51 Line: 11, : Request start: ::1
+2021-02-24 18:06:58 Line: 11, : Request start: 185.38.251.200
+2021-02-24 18:06:58 Line: 260, APISubiektGT\SubiektGT\Product->addUsluga: Utworzono usluge: !CODE72734
+2021-02-24 18:06:58 Line: 96, APISubiektGT\SubiektGT\product->addUsluga: Request finish: 185.38.251.200
+2021-02-24 18:07:13 Line: 11, : Request start: 185.38.251.200
+2021-02-24 18:07:13 Line: 260, APISubiektGT\SubiektGT\Product->addUsluga: Utworzono usluge: !CODE94906
+2021-02-24 18:07:13 Line: 96, APISubiektGT\SubiektGT\product->addUsluga: Request finish: 185.38.251.200
+2021-02-24 18:07:57 Line: 11, : Request start: 185.38.251.200
+2021-02-24 18:07:57 Line: 260, APISubiektGT\SubiektGT\Product->addUsluga: Utworzono usluge: !CODE17301
+2021-02-24 18:07:57 Line: 96, APISubiektGT\SubiektGT\product->addUsluga: Request finish: 185.38.251.200
+2021-02-24 18:08:34 Line: 11, : Request start: 185.38.251.200
+2021-02-24 18:08:34 Line: 272, APISubiektGT\SubiektGT\Product->addKomplet: Utworzono komplet: !CODE73488
+2021-02-24 18:08:34 Line: 96, APISubiektGT\SubiektGT\product->addKomplet: Request finish: 185.38.251.200
+2021-02-24 18:09:05 Line: 11, : Request start: 185.38.251.200
+2021-02-24 18:09:05 Line: 272, APISubiektGT\SubiektGT\Product->addKomplet: Utworzono komplet: !CODE65952
+2021-02-24 18:09:05 Line: 96, APISubiektGT\SubiektGT\product->addKomplet: Request finish: 185.38.251.200
+2021-02-24 18:12:40 Line: 11, : Request start: 185.38.251.200
+2021-02-24 18:12:40 Line: 272, APISubiektGT\SubiektGT\Product->addKomplet: Utworzono komplet: !CODE22060
+2021-02-24 18:12:40 Line: 96, APISubiektGT\SubiektGT\product->addKomplet: Request finish: 185.38.251.200
+2021-02-24 18:38:28 Line: 11, : Request start: ::1
+2021-02-24 18:38:28 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 
+2021-02-24 18:38:28 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 18:38:44 Line: 11, : Request start: ::1
+2021-02-24 18:38:44 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 
+2021-02-24 18:38:44 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 18:39:01 Line: 11, : Request start: ::1
+2021-02-24 18:39:01 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 
+2021-02-24 18:39:01 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 18:39:22 Line: 11, : Request start: ::1
+2021-02-24 18:39:22 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 
+2021-02-24 18:39:22 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 18:39:33 Line: 11, : Request start: ::1
+2021-02-24 18:39:33 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 
+2021-02-24 18:39:33 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 18:39:49 Line: 11, : Request start: ::1
+2021-02-24 18:39:49 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 
+2021-02-24 18:39:49 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 18:41:32 Line: 11, : Request start: ::1
+2021-02-24 18:41:32 Line: 96, APISubiektGT\SubiektGT\product->getGT: Request finish: ::1
+2021-02-24 18:41:38 Line: 11, : Request start: ::1
+2021-02-24 18:41:38 Line: 96, APISubiektGT\SubiektGT\product->getGt: Request finish: ::1
+2021-02-24 18:42:10 Line: 11, : Request start: ::1
+2021-02-24 18:42:10 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 95
+2021-02-24 18:42:10 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 18:43:14 Line: 11, : Request start: ::1
+2021-02-24 18:43:14 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 95
+2021-02-24 18:43:14 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 18:44:21 Line: 11, : Request start: ::1
+2021-02-24 18:44:21 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 95
+2021-02-24 18:44:21 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 18:45:20 Line: 11, : Request start: ::1
+2021-02-24 18:45:20 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 95
+2021-02-24 18:45:20 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 18:45:28 Line: 11, : Request start: ::1
+2021-02-24 18:45:28 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 95
+2021-02-24 18:45:28 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 18:45:42 Line: 11, : Request start: ::1
+2021-02-24 18:45:42 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 95
+2021-02-24 18:45:42 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 18:46:14 Line: 11, : Request start: ::1
+2021-02-24 18:46:19 Line: 11, : Request start: ::1
+2021-02-24 18:46:19 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 95
+2021-02-24 18:46:19 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 18:46:33 Line: 11, : Request start: ::1
+2021-02-24 18:46:33 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 95
+2021-02-24 18:46:33 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 18:46:38 Line: 11, : Request start: ::1
+2021-02-24 18:46:38 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 95
+2021-02-24 18:46:38 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 18:48:36 Line: 11, : Request start: ::1
+2021-02-24 18:48:36 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 95
+2021-02-24 18:48:36 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 18:53:48 Line: 11, : Request start: ::1
+2021-02-24 18:54:02 Line: 11, : Request start: ::1
+2021-02-24 18:54:02 Line: 11, : Request start: ::1
+2021-02-24 18:55:05 Line: 11, : Request start: ::1
+2021-02-24 18:55:36 Line: 11, : Request start: ::1
+2021-02-24 18:56:00 Line: 11, : Request start: ::1
+2021-02-24 18:56:29 Line: 11, : Request start: ::1
+2021-02-24 18:56:51 Line: 11, : Request start: 185.38.251.200
+2021-02-24 18:58:22 Line: 11, : Request start: 185.38.251.200
+2021-02-24 18:58:23 Line: 11, : Request start: 185.38.251.200
+2021-02-24 18:58:24 Line: 11, : Request start: 185.38.251.200
+2021-02-24 18:59:27 Line: 11, : Request start: 10.0.0.141
+2021-02-24 19:00:49 Line: 11, : Request start: ::1
+2021-02-24 19:02:40 Line: 11, : Request start: 10.0.0.141
+2021-02-24 19:02:59 Line: 11, : Request start: ::1
+2021-02-24 19:03:41 Line: 11, : Request start: ::1
+2021-02-24 19:03:41 Line: 11, : Request start: ::1
+2021-02-24 19:04:52 Line: 11, : Request start: ::1
+2021-02-24 19:04:58 Line: 11, : Request start: ::1
+2021-02-24 19:05:05 Line: 11, : Request start: ::1
+2021-02-24 19:06:12 Line: 11, : Request start: ::1
+2021-02-24 19:06:12 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 7
+2021-02-24 19:06:12 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 19:06:20 Line: 11, : Request start: ::1
+2021-02-24 19:06:20 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 7
+2021-02-24 19:06:20 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 19:06:21 Line: 11, : Request start: ::1
+2021-02-24 19:06:21 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 7
+2021-02-24 19:06:21 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 19:06:32 Line: 11, : Request start: 185.38.251.200
+2021-02-24 19:06:32 Line: 272, APISubiektGT\SubiektGT\Product->addKomplet: Utworzono komplet: !CODE75657
+2021-02-24 19:06:32 Line: 96, APISubiektGT\SubiektGT\product->addKomplet: Request finish: 185.38.251.200
+2021-02-24 19:07:34 Line: 11, : Request start: ::1
+2021-02-24 19:08:24 Line: 11, : Request start: ::1
+2021-02-24 19:08:24 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 7
+2021-02-24 19:08:24 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 19:09:07 Line: 11, : Request start: ::1
+2021-02-24 19:10:16 Line: 11, : Request start: ::1
+2021-02-24 19:10:16 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 7
+2021-02-24 19:10:16 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 19:10:22 Line: 11, : Request start: ::1
+2021-02-24 19:10:22 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 95
+2021-02-24 19:10:22 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 19:10:23 Line: 11, : Request start: ::1
+2021-02-24 19:10:23 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 95
+2021-02-24 19:10:23 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 19:11:25 Line: 11, : Request start: ::1
+2021-02-24 19:15:01 Line: 11, : Request start: ::1
+2021-02-24 19:15:01 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 36
+2021-02-24 19:15:01 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 19:19:27 Line: 11, : Request start: ::1
+2021-02-24 19:26:50 Line: 11, : Request start: ::1
+2021-02-24 19:26:50 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 36
+2021-02-24 19:26:50 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 19:26:56 Line: 11, : Request start: ::1
+2021-02-24 19:26:56 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 95
+2021-02-24 19:26:56 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 19:27:20 Line: 11, : Request start: ::1
+2021-02-24 19:27:20 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 50
+2021-02-24 19:27:20 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 19:27:41 Line: 11, : Request start: ::1
+2021-02-24 19:27:41 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 50
+2021-02-24 19:27:41 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 19:29:13 Line: 11, : Request start: ::1
+2021-02-24 19:29:48 Line: 11, : Request start: ::1
+2021-02-24 19:29:48 Line: 96, APISubiektGT\SubiektGT\order->makesaledoc: Request finish: ::1
+2021-02-24 19:29:56 Line: 11, : Request start: ::1
+2021-02-24 19:31:17 Line: 11, : Request start: ::1
+2021-02-24 19:31:18 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 50
+2021-02-24 19:31:18 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 19:34:37 Line: 11, : Request start: ::1
+2021-02-24 19:34:37 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 50
+2021-02-24 19:34:37 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 19:35:24 Line: 11, : Request start: ::1
+2021-02-24 19:35:24 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 50
+2021-02-24 19:35:24 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 19:35:25 Line: 11, : Request start: ::1
+2021-02-24 19:35:25 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 50
+2021-02-24 19:35:25 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 19:35:28 Line: 11, : Request start: ::1
+2021-02-24 19:35:28 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 50
+2021-02-24 19:35:28 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 19:35:50 Line: 11, : Request start: ::1
+2021-02-24 19:35:50 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 50
+2021-02-24 19:35:50 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 19:35:55 Line: 11, : Request start: ::1
+2021-02-24 19:35:55 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 50
+2021-02-24 19:35:55 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 19:35:56 Line: 11, : Request start: ::1
+2021-02-24 19:35:56 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 50
+2021-02-24 19:35:56 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 19:36:11 Line: 11, : Request start: ::1
+2021-02-24 19:36:11 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 50
+2021-02-24 19:36:11 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 19:36:12 Line: 11, : Request start: ::1
+2021-02-24 19:36:12 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 50
+2021-02-24 19:36:12 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 19:38:35 Line: 11, : Request start: ::1
+2021-02-24 19:38:35 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 50
+2021-02-24 19:38:35 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 19:38:42 Line: 11, : Request start: ::1
+2021-02-24 19:38:42 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 50
+2021-02-24 19:38:42 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 19:38:51 Line: 11, : Request start: ::1
+2021-02-24 19:38:51 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 50
+2021-02-24 19:38:51 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 19:38:56 Line: 11, : Request start: ::1
+2021-02-24 19:38:56 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 50
+2021-02-24 19:38:56 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 19:39:12 Line: 11, : Request start: ::1
+2021-02-24 19:39:12 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 50
+2021-02-24 19:39:12 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 19:39:26 Line: 11, : Request start: ::1
+2021-02-24 19:39:26 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 50
+2021-02-24 19:39:26 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 19:39:38 Line: 11, : Request start: ::1
+2021-02-24 19:39:38 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 50
+2021-02-24 19:39:38 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 19:39:45 Line: 11, : Request start: ::1
+2021-02-24 19:39:45 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 50
+2021-02-24 19:39:45 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 19:40:04 Line: 11, : Request start: ::1
+2021-02-24 19:40:15 Line: 11, : Request start: ::1
+2021-02-24 19:40:15 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 50
+2021-02-24 19:40:15 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 19:40:25 Line: 11, : Request start: ::1
+2021-02-24 19:40:52 Line: 11, : Request start: ::1
+2021-02-24 19:40:59 Line: 11, : Request start: ::1
+2021-02-24 19:41:07 Line: 11, : Request start: ::1
+2021-02-24 19:41:07 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 50
+2021-02-24 19:41:07 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 19:41:20 Line: 11, : Request start: ::1
+2021-02-24 19:41:20 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 50
+2021-02-24 19:41:20 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 19:41:51 Line: 11, : Request start: ::1
+2021-02-24 19:43:27 Line: 11, : Request start: ::1
+2021-02-24 19:43:32 Line: 11, : Request start: ::1
+2021-02-24 19:44:47 Line: 11, : Request start: ::1
+2021-02-24 19:44:47 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 50
+2021-02-24 19:44:47 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 19:44:49 Line: 11, : Request start: ::1
+2021-02-24 19:44:59 Line: 11, : Request start: ::1
+2021-02-24 19:45:00 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 50
+2021-02-24 19:45:00 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 19:45:08 Line: 11, : Request start: ::1
+2021-02-24 19:45:09 Line: 11, : Request start: ::1
+2021-02-24 19:45:09 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 50
+2021-02-24 19:45:09 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 19:45:35 Line: 11, : Request start: ::1
+2021-02-24 19:46:29 Line: 11, : Request start: ::1
+2021-02-24 19:47:24 Line: 11, : Request start: ::1
+2021-02-24 19:47:25 Line: 11, : Request start: ::1
+2021-02-24 19:47:29 Line: 11, : Request start: ::1
+2021-02-24 19:47:29 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 50
+2021-02-24 19:47:29 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 19:47:34 Line: 11, : Request start: ::1
+2021-02-24 19:48:13 Line: 11, : Request start: ::1
+2021-02-24 19:48:31 Line: 11, : Request start: ::1
+2021-02-24 19:51:02 Line: 11, : Request start: ::1
+2021-02-24 19:51:02 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 47
+2021-02-24 19:51:21 Line: 11, : Request start: ::1
+2021-02-24 19:51:21 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 47
+2021-02-24 19:51:39 Line: 11, : Request start: ::1
+2021-02-24 19:51:39 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 140
+2021-02-24 19:51:39 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 19:52:17 Line: 11, : Request start: ::1
+2021-02-24 19:52:17 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 47
+2021-02-24 19:52:27 Line: 11, : Request start: ::1
+2021-02-24 19:52:27 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 140
+2021-02-24 19:52:27 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 19:52:38 Line: 11, : Request start: ::1
+2021-02-24 19:52:38 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 140
+2021-02-24 19:52:38 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 19:52:42 Line: 11, : Request start: ::1
+2021-02-24 19:52:42 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 140
+2021-02-24 19:52:42 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 19:52:43 Line: 11, : Request start: ::1
+2021-02-24 19:52:43 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 47
+2021-02-24 19:53:04 Line: 11, : Request start: ::1
+2021-02-24 19:53:04 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 47
+2021-02-24 19:53:20 Line: 11, : Request start: ::1
+2021-02-24 19:53:21 Line: 11, : Request start: ::1
+2021-02-24 19:53:21 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 47
+2021-02-24 19:53:23 Line: 11, : Request start: ::1
+2021-02-24 19:53:23 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 47
+2021-02-24 19:54:02 Line: 11, : Request start: ::1
+2021-02-24 19:54:02 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 140
+2021-02-24 19:54:02 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 19:54:06 Line: 11, : Request start: ::1
+2021-02-24 19:54:06 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 47
+2021-02-24 19:54:44 Line: 11, : Request start: ::1
+2021-02-24 19:54:55 Line: 11, : Request start: ::1
+2021-02-24 19:54:56 Line: 11, : Request start: ::1
+2021-02-24 19:55:38 Line: 11, : Request start: ::1
+2021-02-24 19:56:00 Line: 11, : Request start: ::1
+2021-02-24 19:56:49 Line: 11, : Request start: ::1
+2021-02-24 19:57:37 Line: 11, : Request start: ::1
+2021-02-24 20:03:20 Line: 11, : Request start: ::1
+2021-02-24 20:03:31 Line: 11, : Request start: ::1
+2021-02-24 20:03:32 Line: 11, : Request start: ::1
+2021-02-24 20:03:32 Line: 11, : Request start: ::1
+2021-02-24 20:03:33 Line: 11, : Request start: ::1
+2021-02-24 20:03:34 Line: 11, : Request start: ::1
+2021-02-24 20:03:35 Line: 11, : Request start: ::1
+2021-02-24 20:03:35 Line: 11, : Request start: ::1
+2021-02-24 20:03:39 Line: 11, : Request start: 185.38.251.200
+2021-02-24 20:03:39 Line: 275, APISubiektGT\SubiektGT\Product->addKomplet: Utworzono komplet: !CODE33983
+2021-02-24 20:03:39 Line: 96, APISubiektGT\SubiektGT\product->addKomplet: Request finish: 185.38.251.200
+2021-02-24 20:03:42 Line: 11, : Request start: ::1
+2021-02-24 20:03:48 Line: 11, : Request start: ::1
+2021-02-24 20:03:48 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 95
+2021-02-24 20:03:49 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 20:05:06 Line: 11, : Request start: ::1
+2021-02-24 20:05:32 Line: 11, : Request start: ::1
+2021-02-24 20:06:14 Line: 11, : Request start: ::1
+2021-02-24 20:06:19 Line: 11, : Request start: ::1
+2021-02-24 20:07:00 Line: 11, : Request start: ::1
+2021-02-24 20:07:00 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 95
+2021-02-24 20:07:00 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 20:07:20 Line: 11, : Request start: ::1
+2021-02-24 20:07:20 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 95
+2021-02-24 20:07:20 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 20:07:25 Line: 11, : Request start: ::1
+2021-02-24 20:07:29 Line: 11, : Request start: ::1
+2021-02-24 20:07:29 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 95
+2021-02-24 20:07:29 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 20:07:37 Line: 11, : Request start: ::1
+2021-02-24 20:07:37 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 95
+2021-02-24 20:07:37 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 20:07:54 Line: 11, : Request start: ::1
+2021-02-24 20:08:15 Line: 11, : Request start: ::1
+2021-02-24 20:08:15 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 95
+2021-02-24 20:08:15 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 20:08:37 Line: 11, : Request start: ::1
+2021-02-24 20:08:37 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 95
+2021-02-24 20:08:37 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 20:08:38 Line: 11, : Request start: ::1
+2021-02-24 20:08:38 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 95
+2021-02-24 20:08:38 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 20:08:44 Line: 11, : Request start: ::1
+2021-02-24 20:08:44 Line: 92, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 95
+2021-02-24 20:08:44 Line: 96, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-24 20:08:58 Line: 11, : Request start: ::1
+2021-02-24 20:09:18 Line: 11, : Request start: ::1
+2021-02-24 20:09:33 Line: 11, : Request start: ::1
+2021-02-24 20:09:42 Line: 11, : Request start: ::1
+2021-02-24 20:09:43 Line: 11, : Request start: ::1
+2021-02-24 20:09:43 Line: 11, : Request start: ::1
+2021-02-24 20:09:48 Line: 11, : Request start: ::1
+2021-02-24 20:09:48 Line: 11, : Request start: ::1
+2021-02-24 20:09:48 Line: 11, : Request start: ::1
+2021-02-24 22:18:16 Line: 11, : Request start: ::1
+2021-02-24 23:58:28 Line: 11, : Request start: ::1

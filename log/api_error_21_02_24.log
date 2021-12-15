@@ -1,0 +1,201 @@
+2021-02-24 09:02:15 Line: 104, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 09:02:57 Line: 104, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 09:43:20 Line: 31, C:\xampp\htdocs\api-subiekt-gt\public\api\index.php: JSON read: Control character error, possibly incorrectly encoded
+2021-02-24 09:45:45 Line: 31, C:\xampp\htdocs\api-subiekt-gt\public\api\index.php: JSON read: Control character error, possibly incorrectly encoded
+2021-02-24 09:46:05 Line: 31, C:\xampp\htdocs\api-subiekt-gt\public\api\index.php: JSON read: Control character error, possibly incorrectly encoded
+2021-02-24 09:46:18 Line: 31, C:\xampp\htdocs\api-subiekt-gt\public\api\index.php: JSON read: Control character error, possibly incorrectly encoded
+2021-02-24 09:46:34 Line: 31, C:\xampp\htdocs\api-subiekt-gt\public\api\index.php: JSON read: Control character error, possibly incorrectly encoded
+2021-02-24 09:59:24 Line: 34, C:\xampp\htdocs\api-subiekt-gt\public\api\index.php: Brak danych w ¿¹daniu!
+2021-02-24 10:12:49 Line: 105, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Warto?? musi by? unikalna.
+2021-02-24 10:13:08 Line: 31, C:\xampp\htdocs\api-subiekt-gt\public\api\index.php: JSON read: Control character error, possibly incorrectly encoded
+2021-02-24 10:13:25 Line: 31, C:\xampp\htdocs\api-subiekt-gt\public\api\index.php: JSON read: Control character error, possibly incorrectly encoded
+2021-02-24 10:18:33 Line: 31, C:\xampp\htdocs\api-subiekt-gt\public\api\index.php: JSON read: Syntax error
+2021-02-24 10:28:47 Line: 67, C:\xampp\htdocs\api-subiekt-gt\public\api\index.php: Nieprawid³owy klucz API - api_key!
+2021-02-24 10:41:12 Line: 67, C:\xampp\htdocs\api-subiekt-gt\public\api\index.php: Nieprawid³owy klucz API - api_key!
+2021-02-24 10:59:46 Line: 67, C:\xampp\htdocs\api-subiekt-gt\public\api\index.php: Nieprawid³owy klucz API - api_key!
+2021-02-24 11:02:12 Line: 67, C:\xampp\htdocs\api-subiekt-gt\public\api\index.php: Nieprawid³owy klucz API - api_key!
+2021-02-24 11:02:36 Line: 93, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 11:03:50 Line: 93, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 11:04:07 Line: 93, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 11:07:15 Line: 93, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 11:09:00 Line: 93, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 11:09:37 Line: 93, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 11:19:53 Line: 93, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 11:20:06 Line: 93, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 11:20:52 Line: 31, C:\xampp\htdocs\api-subiekt-gt\public\api\index.php: JSON read: Syntax error
+2021-02-24 11:23:19 Line: 67, C:\xampp\htdocs\api-subiekt-gt\public\api\index.php: Nieprawid³owy klucz API - api_key!
+2021-02-24 11:24:06 Line: 146, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Subiekt.FS.1<br/><b>Description:</b> Brak osoby wystawiaj?cej dokument.
+2021-02-24 11:27:34 Line: 100, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 11:28:15 Line: 146, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Subiekt.FS.1<br/><b>Description:</b> Nie mo?na zapisa? dokumentu.
+2021-02-24 11:28:50 Line: 146, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Subiekt.FS.1<br/><b>Description:</b> Nie mo?na zapisa? dokumentu.
+2021-02-24 11:29:03 Line: 146, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Subiekt.FS.1<br/><b>Description:</b> Nie mo?na zapisa? dokumentu.
+2021-02-24 11:31:06 Line: 146, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Subiekt.FS.1<br/><b>Description:</b> Brak osoby wystawiaj?cej dokument.
+2021-02-24 11:31:32 Line: 146, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Subiekt.FS.1<br/><b>Description:</b> Brak osoby wystawiaj?cej dokument.
+2021-02-24 11:32:26 Line: 146, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Subiekt.FS.1<br/><b>Description:</b> Brak osoby wystawiaj?cej dokument.
+2021-02-24 11:33:36 Line: 93, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 11:34:33 Line: 124, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: Nie mo¿na utworzyæ dokumentu sprzeda¿y. Dokument: ZK 5/2021. <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Zamówienie ZK 5/2021 zosta³o ju¿ zrealizowane.
+Dokument FS 5/2021 zosta³ wystawiony na podstawie tego zamówienia.
+2021-02-24 11:34:49 Line: 124, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: Nie mo¿na utworzyæ dokumentu sprzeda¿y. Dokument: ZK 5/2021. <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Zamówienie ZK 5/2021 zosta³o ju¿ zrealizowane.
+Dokument FS 5/2021 zosta³ wystawiony na podstawie tego zamówienia.
+2021-02-24 11:37:23 Line: 146, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Subiekt.FS.1<br/><b>Description:</b> Nie mo?na zapisa? dokumentu.
+2021-02-24 11:40:49 Line: 146, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Subiekt.FS.1<br/><b>Description:</b> Brak osoby wystawiaj?cej dokument.
+2021-02-24 11:40:58 Line: 146, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Subiekt.FS.1<br/><b>Description:</b> Brak osoby wystawiaj?cej dokument.
+2021-02-24 11:41:03 Line: 124, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: Nie mo¿na utworzyæ dokumentu sprzeda¿y. Dokument: ZK 4/2021. <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Zamówienie ZK 4/2021 zosta³o ju¿ zrealizowane.
+Dokument FS 10/2021 zosta³ wystawiony na podstawie tego zamówienia.
+2021-02-24 11:44:19 Line: 146, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Subiekt.FS.1<br/><b>Description:</b> Brak osoby wystawiaj?cej dokument.
+2021-02-24 11:44:39 Line: 146, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Subiekt.FS.1<br/><b>Description:</b> Nie mo?na zapisa? dokumentu.
+2021-02-24 11:45:34 Line: 146, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Subiekt.FS.1<br/><b>Description:</b> Nie mo?na zapisa? dokumentu.
+2021-02-24 11:45:42 Line: 146, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Subiekt.FS.1<br/><b>Description:</b> Nie mo?na zapisa? dokumentu.
+2021-02-24 11:46:05 Line: 146, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Subiekt.FS.1<br/><b>Description:</b> Nie mo?na zapisa? dokumentu.
+2021-02-24 11:57:15 Line: 146, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Subiekt.FS.1<br/><b>Description:</b> Nie mo?na zapisa? dokumentu.
+2021-02-24 12:00:55 Line: 93, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 12:01:11 Line: 93, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 12:17:36 Line: 93, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 12:17:40 Line: 93, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 12:17:45 Line: 93, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 12:17:58 Line: 93, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 12:18:37 Line: 146, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Subiekt.FS.1<br/><b>Description:</b> Nie mo?na zapisa? dokumentu.
+2021-02-24 12:18:42 Line: 146, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Subiekt.FS.1<br/><b>Description:</b> Nie mo?na zapisa? dokumentu.
+2021-02-24 12:18:44 Line: 146, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Subiekt.FS.1<br/><b>Description:</b> Nie mo?na zapisa? dokumentu.
+2021-02-24 12:19:26 Line: 146, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Subiekt.FS.1<br/><b>Description:</b> Nie mo?na zapisa? dokumentu.
+2021-02-24 12:19:32 Line: 146, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Subiekt.FS.1<br/><b>Description:</b> Nie mo?na zapisa? dokumentu.
+2021-02-24 12:19:37 Line: 146, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Subiekt.FS.1<br/><b>Description:</b> Nie mo?na zapisa? dokumentu.
+2021-02-24 12:19:39 Line: 146, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Subiekt.FS.1<br/><b>Description:</b> Nie mo?na zapisa? dokumentu.
+2021-02-24 12:19:40 Line: 146, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Subiekt.FS.1<br/><b>Description:</b> Nie mo?na zapisa? dokumentu.
+2021-02-24 12:19:41 Line: 146, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Subiekt.FS.1<br/><b>Description:</b> Nie mo?na zapisa? dokumentu.
+2021-02-24 12:19:42 Line: 146, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Subiekt.FS.1<br/><b>Description:</b> Nie mo?na zapisa? dokumentu.
+2021-02-24 12:20:43 Line: 93, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 12:20:46 Line: 93, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 12:20:48 Line: 93, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 12:20:49 Line: 93, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 12:20:50 Line: 93, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 12:20:52 Line: 93, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 12:20:54 Line: 93, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 12:20:57 Line: 93, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 12:21:41 Line: 93, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 12:21:45 Line: 93, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 12:21:48 Line: 93, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 12:21:52 Line: 93, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 12:21:54 Line: 93, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 12:21:55 Line: 93, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 12:21:56 Line: 93, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 12:21:57 Line: 93, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 12:21:58 Line: 93, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 12:21:59 Line: 93, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 12:22:01 Line: 93, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 12:22:02 Line: 93, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 12:22:07 Line: 93, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 12:27:15 Line: 93, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 12:27:25 Line: 93, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 12:29:29 Line: 146, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Subiekt.FS.1<br/><b>Description:</b> Nie mo?na zapisa? dokumentu.
+2021-02-24 12:34:16 Line: 146, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Subiekt.FS.1<br/><b>Description:</b> Nie mo?na zapisa? dokumentu.
+2021-02-24 12:44:49 Line: 67, C:\xampp\htdocs\api-subiekt-gt\public\api\index.php: Nieprawid³owy klucz API - api_key!
+2021-02-24 12:45:18 Line: 67, C:\xampp\htdocs\api-subiekt-gt\public\api\index.php: Nieprawid³owy klucz API - api_key!
+2021-02-24 12:57:50 Line: 31, C:\xampp\htdocs\api-subiekt-gt\public\api\index.php: JSON read: Syntax error
+2021-02-24 12:58:33 Line: 31, C:\xampp\htdocs\api-subiekt-gt\public\api\index.php: JSON read: Syntax error
+2021-02-24 13:02:56 Line: 31, C:\xampp\htdocs\api-subiekt-gt\public\api\index.php: JSON read: Syntax error
+2021-02-24 13:03:28 Line: 31, C:\xampp\htdocs\api-subiekt-gt\public\api\index.php: JSON read: Syntax error
+2021-02-24 13:03:31 Line: 31, C:\xampp\htdocs\api-subiekt-gt\public\api\index.php: JSON read: Syntax error
+2021-02-24 13:06:06 Line: 31, C:\xampp\htdocs\api-subiekt-gt\public\api\index.php: JSON read: Syntax error
+2021-02-24 13:06:45 Line: 31, C:\xampp\htdocs\api-subiekt-gt\public\api\index.php: JSON read: Syntax error
+2021-02-24 13:07:05 Line: 31, C:\xampp\htdocs\api-subiekt-gt\public\api\index.php: JSON read: Syntax error
+2021-02-24 13:07:15 Line: 31, C:\xampp\htdocs\api-subiekt-gt\public\api\index.php: JSON read: Syntax error
+2021-02-24 13:07:40 Line: 31, C:\xampp\htdocs\api-subiekt-gt\public\api\index.php: JSON read: Syntax error
+2021-02-24 13:08:06 Line: 31, C:\xampp\htdocs\api-subiekt-gt\public\api\index.php: JSON read: Syntax error
+2021-02-24 13:27:53 Line: 93, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 13:50:30 Line: 93, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 14:21:11 Line: 93, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 14:21:14 Line: 93, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 14:39:08 Line: 115, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Warto?? musi by? unikalna.
+2021-02-24 15:23:26 Line: 119, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Warto?? musi by? unikalna.
+2021-02-24 15:24:21 Line: 119, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Warto?? musi by? unikalna.
+2021-02-24 15:24:38 Line: 119, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Warto?? musi by? unikalna.
+2021-02-24 15:24:53 Line: 119, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Warto?? musi by? unikalna.
+2021-02-24 15:25:30 Line: 119, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Warto?? musi by? unikalna.
+2021-02-24 15:26:05 Line: 119, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Warto?? musi by? unikalna.
+2021-02-24 15:26:27 Line: 119, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Warto?? musi by? unikalna.
+2021-02-24 15:26:43 Line: 119, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Warto?? musi by? unikalna.
+2021-02-24 15:26:56 Line: 119, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Warto?? musi by? unikalna.
+2021-02-24 18:05:59 Line: 247, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 18:06:16 Line: 259, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 18:06:51 Line: 259, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 18:53:49 Line: 58, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 18:54:02 Line: 58, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 18:54:03 Line: 58, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 18:55:05 Line: 58, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 18:55:36 Line: 58, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 18:56:00 Line: 58, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 18:56:29 Line: 58, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 18:56:51 Line: 58, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 18:58:22 Line: 58, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 18:58:23 Line: 58, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 18:58:24 Line: 58, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 19:00:49 Line: 58, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 19:02:40 Line: 58, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 19:03:00 Line: 58, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 19:03:41 Line: 58, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 19:03:41 Line: 58, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 19:04:52 Line: 17, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\mssql.php: Could not connect. [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]Login failed for user 'sa'.
+2021-02-24 19:04:58 Line: 17, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\mssql.php: Could not connect. [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]Login failed for user 'sa'.
+2021-02-24 19:05:05 Line: 58, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 19:19:27 Line: 146, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Subiekt.FS.1<br/><b>Description:</b> Nie mo?na zapisa? dokumentu.
+2021-02-24 19:29:13 Line: 146, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Subiekt.FS.1<br/><b>Description:</b> Nie mo?na zapisa? dokumentu.
+2021-02-24 19:29:56 Line: 146, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Subiekt.FS.1<br/><b>Description:</b> Nie mo?na zapisa? dokumentu.
+2021-02-24 19:40:04 Line: 141, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Unable to lookup `Filtr': Nieznana nazwa.
+2021-02-24 19:40:25 Line: 141, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Unable to lookup `Sortowanie': Nieznana nazwa.
+2021-02-24 19:40:52 Line: 143, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Unable to lookup `TowarId': Nieznana nazwa.
+2021-02-24 19:40:59 Line: 143, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Unable to lookup `Ilosc': Nieznana nazwa.
+2021-02-24 19:41:51 Line: 143, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Towar lub us?uga jest u?ywany.
+2021-02-24 19:43:27 Line: 146, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Subiekt.FS.1<br/><b>Description:</b> Nie mo?na zapisa? dokumentu.
+2021-02-24 19:43:32 Line: 146, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Subiekt.FS.1<br/><b>Description:</b> Nie mo?na zapisa? dokumentu.
+2021-02-24 19:44:50 Line: 146, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Subiekt.FS.1<br/><b>Description:</b> Brak osoby wystawiaj?cej dokument.
+2021-02-24 19:45:08 Line: 146, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Subiekt.FS.1<br/><b>Description:</b> Brak osoby wystawiaj?cej dokument.
+2021-02-24 19:45:35 Line: 146, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Subiekt.FS.1<br/><b>Description:</b> Brak osoby wystawiaj?cej dokument.
+2021-02-24 19:46:29 Line: 146, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Towar lub us?uga jest u?ywany.
+2021-02-24 19:47:24 Line: 145, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Towar lub us?uga jest u?ywany.
+2021-02-24 19:47:25 Line: 145, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Towar lub us?uga jest u?ywany.
+2021-02-24 19:47:34 Line: 124, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: Nie mo¿na utworzyæ dokumentu sprzeda¿y. Dokument: ZK 12/2021. <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Zamówienie ZK 12/2021 zosta³o ju¿ zrealizowane.
+Dokument FS 15/2021 zosta³ wystawiony na podstawie tego zamówienia.
+2021-02-24 19:48:31 Line: 144, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Towar lub us?uga jest u?ywany.
+2021-02-24 19:51:02 Line: 144, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Towar lub us?uga jest u?ywany.
+2021-02-24 19:51:21 Line: 144, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Towar lub us?uga jest u?ywany.
+2021-02-24 19:52:17 Line: 144, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 19:52:43 Line: 144, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 19:53:04 Line: 144, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 19:53:20 Line: 145, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: Unable to lookup `Zapisz': Nieznana nazwa.
+2021-02-24 19:53:21 Line: 144, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 19:53:23 Line: 144, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 19:54:06 Line: 144, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 19:54:44 Line: 124, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: Nie mo¿na utworzyæ dokumentu sprzeda¿y. Dokument: ZK 12/2021. <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Zamówienie ZK 12/2021 zosta³o ju¿ zrealizowane.
+Dokument FS 15/2021 zosta³ wystawiony na podstawie tego zamówienia.
+2021-02-24 19:54:55 Line: 144, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Towar lub us?uga jest u?ywany.
+2021-02-24 19:54:56 Line: 146, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Subiekt.FS.1<br/><b>Description:</b> Nie mo?na zapisa? dokumentu.
+2021-02-24 19:55:38 Line: 144, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Towar lub us?uga jest u?ywany.
+2021-02-24 19:56:00 Line: 146, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Subiekt.FS.1<br/><b>Description:</b> Nie mo?na zapisa? dokumentu.
+2021-02-24 19:56:49 Line: 146, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Subiekt.FS.1<br/><b>Description:</b> Nie mo?na zapisa? dokumentu.
+2021-02-24 19:57:37 Line: 146, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: <b>Source:</b> Subiekt.FS.1<br/><b>Description:</b> Nie mo?na zapisa? dokumentu.
+2021-02-24 20:03:20 Line: 144, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 20:03:31 Line: 144, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 20:03:32 Line: 144, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 20:03:32 Line: 144, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 20:03:33 Line: 144, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 20:03:34 Line: 144, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 20:03:35 Line: 144, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 20:03:35 Line: 144, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 20:03:42 Line: 144, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 20:05:06 Line: 144, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 20:05:32 Line: 144, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 20:06:19 Line: 144, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 20:07:25 Line: 144, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> Unknown<br/><b>Description:</b> Unknown
+2021-02-24 20:07:54 Line: 144, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Towar lub us?uga jest u?ywany.
+2021-02-24 20:08:58 Line: 145, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Towar lub us?uga jest u?ywany.
+2021-02-24 20:09:18 Line: 146, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Towar lub us?uga jest u?ywany.
+2021-02-24 20:09:33 Line: 145, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Towar lub us?uga jest u?ywany.
+2021-02-24 20:09:42 Line: 145, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Towar lub us?uga jest u?ywany.
+2021-02-24 20:09:43 Line: 145, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Towar lub us?uga jest u?ywany.
+2021-02-24 20:09:43 Line: 145, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Towar lub us?uga jest u?ywany.
+2021-02-24 20:09:48 Line: 145, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Towar lub us?uga jest u?ywany.
+2021-02-24 20:09:48 Line: 145, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Towar lub us?uga jest u?ywany.
+2021-02-24 20:09:48 Line: 145, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Towar lub us?uga jest u?ywany.
+2021-02-24 22:18:16 Line: 145, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Towar lub us?uga jest u?ywany.
+2021-02-24 23:58:28 Line: 145, C:\xampp\htdocs\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Towar lub us?uga jest u?ywany.

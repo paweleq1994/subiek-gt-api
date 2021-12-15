@@ -1,0 +1,17 @@
+2021-02-08 15:38:17 Line: 11, : Request start: ::1
+2021-02-08 15:39:26 Line: 11, : Request start: ::1
+2021-02-08 15:40:05 Line: 11, : Request start: ::1
+2021-02-08 15:40:13 Line: 11, : Request start: ::1
+2021-02-08 15:40:22 Line: 11, : Request start: ::1
+2021-02-08 15:40:31 Line: 11, : Request start: ::1
+2021-02-08 15:50:36 Line: 11, : Request start: ::1
+2021-02-08 15:51:09 Line: 11, : Request start: ::1
+2021-02-08 15:52:39 Line: 11, : Request start: ::1
+2021-02-08 15:52:53 Line: 11, : Request start: ::1
+2021-02-08 15:53:00 Line: 90, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 25
+2021-02-08 15:53:00 Line: 95, APISubiektGT\SubiektGT\document->get: Request finish: ::1
+2021-02-08 15:53:02 Line: 11, : Request start: ::1
+2021-02-08 15:53:02 Line: 90, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 90
+2021-02-08 15:53:02 Line: 95, APISubiektGT\SubiektGT\document->get: Request finish: ::1
+2021-02-08 15:53:13 Line: 90, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 25
+2021-02-08 15:53:13 Line: 95, APISubiektGT\SubiektGT\document->get: Request finish: ::1

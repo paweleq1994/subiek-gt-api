@@ -1,0 +1,16 @@
+2021-02-22 09:02:23 Line: 11, : Request start: ::1
+2021-02-22 09:02:23 Line: 268, APISubiektGT\SubiektGT\Product->add: Utworzono produkt: !!**SDFDSSFDSFSF**
+2021-02-22 09:02:23 Line: 95, APISubiektGT\SubiektGT\product->add: Request finish: ::1
+2021-02-22 09:13:05 Line: 11, : Request start: ::1
+2021-02-22 09:13:05 Line: 90, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 6
+2021-02-22 09:13:05 Line: 95, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-22 09:14:03 Line: 11, : Request start: ::1
+2021-02-22 09:34:34 Line: 11, : Request start: ::1
+2021-02-22 09:34:34 Line: 289, APISubiektGT\SubiektGT\Product->update: Zaktualizowano produkt: !**SDFDSSFDSFSF**
+2021-02-22 09:34:34 Line: 95, APISubiektGT\SubiektGT\product->update: Request finish: ::1
+2021-02-22 15:03:43 Line: 11, : Request start: ::1
+2021-02-22 15:03:43 Line: 90, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 6
+2021-02-22 15:03:43 Line: 95, APISubiektGT\SubiektGT\product->get: Request finish: ::1
+2021-02-22 15:06:10 Line: 11, : Request start: ::1
+2021-02-22 15:06:10 Line: 90, APISubiektGT\SubiektGT\SubiektObj->get: Pobrano dane obiektu id: 25
+2021-02-22 15:06:10 Line: 95, APISubiektGT\SubiektGT\order->get: Request finish: ::1

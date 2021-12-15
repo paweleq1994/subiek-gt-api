@@ -1,0 +1,24 @@
+2021-02-18 08:59:22 Line: 140, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Warto?? musi by? unikalna.
+2021-02-18 09:00:25 Line: 140, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Warto?? musi by? unikalna.
+2021-02-18 09:00:40 Line: 140, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Warto?? musi by? unikalna.
+2021-02-18 09:01:04 Line: 140, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Warto?? musi by? unikalna.
+2021-02-18 09:03:03 Line: 140, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Warto?? musi by? unikalna.
+2021-02-18 09:07:01 Line: 140, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Warto?? musi by? unikalna.
+2021-02-18 09:07:36 Line: 140, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Warto?? musi by? unikalna.
+2021-02-18 09:07:46 Line: 140, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Warto?? musi by? unikalna.
+2021-02-18 09:08:30 Line: 140, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Warto?? musi by? unikalna.
+2021-02-18 09:08:50 Line: 140, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Warto?? musi by? unikalna.
+2021-02-18 09:09:21 Line: 140, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Warto?? musi by? unikalna.
+2021-02-18 09:09:29 Line: 140, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Warto?? musi by? unikalna.
+2021-02-18 09:27:42 Line: 140, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\product.php: <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Warto?? musi by? unikalna.
+2021-02-18 09:27:49 Line: 31, C:\xampp\htdocs\subiekt\api-subiekt-gt\public\api\index.php: JSON read: Syntax error
+2021-02-18 09:29:40 Line: 31, C:\xampp\htdocs\subiekt\api-subiekt-gt\public\api\index.php: JSON read: Syntax error
+2021-02-18 09:56:13 Line: 31, C:\xampp\htdocs\subiekt\api-subiekt-gt\public\api\index.php: JSON read: Syntax error
+2021-02-18 09:58:26 Line: 124, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: Nie mo¿na utworzyæ dokumentu sprzeda¿y. Dokument: ZK 3/2021. <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Zamówienie ZK 3/2021 zosta³o ju¿ zrealizowane.
+Dokument FS 4/2021 zosta³ wystawiony na podstawie tego zamówienia.
+2021-02-18 12:22:52 Line: 124, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: Nie mo¿na utworzyæ dokumentu sprzeda¿y. Dokument: ZK 9/2021. <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Zamówienie ZK 9/2021 zosta³o ju¿ zrealizowane.
+Dokument PA 4/2021 zosta³ wystawiony na podstawie tego zamówienia.
+2021-02-18 12:23:32 Line: 124, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: Nie mo¿na utworzyæ dokumentu sprzeda¿y. Dokument: ZK 10/2021. <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Zamówienie ZK 10/2021 zosta³o ju¿ zrealizowane.
+Dokument PA 5/2021 zosta³ wystawiony na podstawie tego zamówienia.
+2021-02-18 12:38:12 Line: 124, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: Nie mo¿na utworzyæ dokumentu sprzeda¿y. Dokument: ZK 13/2021. <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Nie mo¿na zablokowaæ obiektu. Obiekt zosta³ zablokowany przez operatora Szef na stacji PAWEL.
+2021-02-18 12:38:21 Line: 124, C:\xampp\htdocs\subiekt\api-subiekt-gt\src\apisubiektgt\subiektgt\order.php: Nie mo¿na utworzyæ dokumentu sprzeda¿y. Dokument: ZK 13/2021. <b>Source:</b> InsERT.GT.1<br/><b>Description:</b> Nie mo¿na zablokowaæ obiektu. Obiekt zosta³ zablokowany przez operatora Szef na stacji PAWEL.
